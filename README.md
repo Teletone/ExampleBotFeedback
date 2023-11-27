@@ -1,5 +1,8 @@
-# ExampleBotFeedback
+# ExampleBotFeedback 2.0
+
 Example of a Teletone bot for feedback
+
+This is the best feedback bot because you don't even need a database. For small projects
 
 # Preparation
 
@@ -19,6 +22,6 @@ Install dependencies:
 
 Run from console:
 
-`composer run bot`
+`php bot.php`
 
 Yay!

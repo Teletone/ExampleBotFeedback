@@ -2,11 +2,6 @@
     "name": "teletone/example-bot-feedback",
     "type": "project",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "ExampleBotFeedback\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Sri Ramana Maharshi",
@@ -16,8 +11,5 @@
     "require": {
         "teletone/teletone": "^1.0",
         "vlucas/phpdotenv": "^5.5"
-    },
-    "scripts": {
-        "bot": "php src/Bot.php"
     }
 }
